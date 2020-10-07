@@ -2,7 +2,7 @@
 
 'use strict';
 
-import * as THREE from '../build/three.module.js';
+import * as THREE from './build/three.module.js';
 
 import { PointerLockControls } from './jsm/controls/PointerLockControls.js';
 //import { OBJLoader2 } from './jsm/loaders/OBJLoader2.js';
